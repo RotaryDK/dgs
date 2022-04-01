@@ -71,7 +71,7 @@
       <workItem from="1648751648383" duration="429000" />
       <workItem from="1648752425869" duration="556000" />
       <workItem from="1648799944782" duration="560000" />
-      <workItem from="1648802057822" duration="115000" />
+      <workItem from="1648802057822" duration="1658000" />
     </task>
     <task id="LOCAL-00001" summary="Hello World">
       <created>1648752541200</created>
@@ -94,7 +94,21 @@
       <option name="project" value="LOCAL" />
       <updated>1648800479765</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Logo igen igen">
+      <created>1648802188986</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648802188986</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Logo igen igen">
+      <created>1648802864657</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1648802864657</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,12 +141,13 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hello World" />
     <MESSAGE value="Logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Logo" />
+    <MESSAGE value="Logo igen igen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Logo igen igen" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1312" y="435" key="Vcs.Push.Dialog.v2" timestamp="1648800489127">
+    <state x="1312" y="435" key="Vcs.Push.Dialog.v2" timestamp="1648802868462">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1312" y="435" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1648800489127" />
+    <state x="1312" y="435" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1648802868462" />
   </component>
 </project>
