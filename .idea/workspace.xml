@@ -26,7 +26,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9b6e637-44de-42a3-b183-099acc13ca3d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +70,7 @@
       <workItem from="1648751648383" duration="429000" />
       <workItem from="1648752425869" duration="556000" />
       <workItem from="1648799944782" duration="560000" />
-      <workItem from="1648802057822" duration="1658000" />
+      <workItem from="1648802057822" duration="1861000" />
     </task>
     <task id="LOCAL-00001" summary="Hello World">
       <created>1648752541200</created>
@@ -108,7 +107,21 @@
       <option name="project" value="LOCAL" />
       <updated>1648802864657</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Table">
+      <created>1648804281334</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1648804281334</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Table">
+      <created>1648804313329</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1648804313329</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,12 +155,13 @@
     <MESSAGE value="Hello World" />
     <MESSAGE value="Logo" />
     <MESSAGE value="Logo igen igen" />
-    <option name="LAST_COMMIT_MESSAGE" value="Logo igen igen" />
+    <MESSAGE value="Table" />
+    <option name="LAST_COMMIT_MESSAGE" value="Table" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1312" y="435" key="Vcs.Push.Dialog.v2" timestamp="1648802868462">
+    <state x="1312" y="435" key="Vcs.Push.Dialog.v2" timestamp="1648804319369">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1312" y="435" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1648802868462" />
+    <state x="1312" y="435" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1648804319369" />
   </component>
 </project>
