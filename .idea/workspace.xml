@@ -20,7 +20,6 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
@@ -73,7 +72,8 @@
       <workItem from="1648751648383" duration="429000" />
       <workItem from="1648752425869" duration="556000" />
       <workItem from="1648799944782" duration="560000" />
-      <workItem from="1648802057822" duration="4161000" />
+      <workItem from="1648802057822" duration="4516000" />
+      <workItem from="1649954185941" duration="543000" />
     </task>
     <task id="LOCAL-00001" summary="Hello World">
       <created>1648752541200</created>
@@ -152,7 +152,21 @@
       <option name="project" value="LOCAL" />
       <updated>1648806687618</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Indsat den første tekst">
+      <created>1648807323013</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1648807323013</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Ændring til værktøjskasse fra DGS">
+      <created>1649954434958</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1649954434958</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,19 +177,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="main" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -189,12 +191,14 @@
     <MESSAGE value="Table" />
     <MESSAGE value="Updated with CSS file" />
     <MESSAGE value="Updated BG color" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated BG color" />
+    <MESSAGE value="Indsat den første tekst" />
+    <MESSAGE value="Ændring til værktøjskasse fra DGS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ændring til værktøjskasse fra DGS" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1312" y="435" key="Vcs.Push.Dialog.v2" timestamp="1648806694155">
+    <state x="1312" y="435" key="Vcs.Push.Dialog.v2" timestamp="1649954519342">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1312" y="435" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1648806694155" />
+    <state x="1312" y="435" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1649954519342" />
   </component>
 </project>
